@@ -1,5 +1,5 @@
 export const OPEN_WEATHER_API: string = 'https://api.openweathermap.org';
-
+// Add APP_ID key before requesting OPEN_WEATHER_API
 export const APP_ID: string = '';
 
 export const CITIES_SEARCH_LIMIT = 100;
